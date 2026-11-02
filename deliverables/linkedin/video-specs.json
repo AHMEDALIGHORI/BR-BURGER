@@ -1,0 +1,11 @@
+{
+  "durationSeconds": 30,
+  "width": 1080,
+  "height": 1920,
+  "fps": 30,
+  "videoCodec": "H.264",
+  "audioCodec": "AAC",
+  "audioSampleRate": 48000,
+  "bytes": 20159563,
+  "decodeCheck": "passed"
+}

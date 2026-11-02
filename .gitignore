@@ -1,0 +1,14 @@
+node_modules/
+.next/
+out/
+test-results/
+*.tsbuildinfo
+.env
+.env.*
+!.env.example
+*.log
+.DS_Store
+Thumbs.db
+deliverables/linkedin/showcase-picture.mp4
+deliverables/linkedin/original-soundtrack.wav
+deliverables/linkedin/preview-*.jpg

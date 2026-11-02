@@ -1,0 +1,38 @@
+{
+  "name": "br-burger",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev --hostname 0.0.0.0",
+    "build": "next build",
+    "start": "next start --hostname 0.0.0.0",
+    "typecheck": "tsc --noEmit",
+    "test:e2e": "node scripts/verify.mjs"
+  },
+  "dependencies": {
+    "@react-three/drei": "latest",
+    "@react-three/fiber": "latest",
+    "framer-motion": "latest",
+    "gsap": "^3.13.0",
+    "lenis": "latest",
+    "next": "16.4.3",
+    "react": "latest",
+    "react-dom": "latest",
+    "react-icons": "^5.5.0",
+    "split-type": "^0.3.4",
+    "three": "latest"
+  },
+  "devDependencies": {
+    "@playwright/test": "latest",
+    "@tailwindcss/postcss": "^4.1.0",
+    "@types/node": "^24.0.0",
+    "@types/react": "latest",
+    "@types/react-dom": "latest",
+    "@types/three": "latest",
+    "ffmpeg-static": "latest",
+    "lighthouse": "^13.6.0",
+    "sharp": "latest",
+    "tailwindcss": "^4.1.0",
+    "typescript": "^5.9.0"
+  }
+}

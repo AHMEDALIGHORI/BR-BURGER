@@ -1,0 +1,20 @@
+Your scroll is the play button.
+
+Meet BR-Burger—an AI-assisted concept website for a fictional premium fast-food brand.
+
+The idea: make exploring a menu feel like watching a product launch.
+
+🍔 Scroll-controlled burger assembly
+🎬 Seven cinematic chapters
+🧀 A rotating 3D menu with ten items
+✨ Animated typography and responsive interactions
+
+The biggest technical challenge was keeping scroll position, video seeking, and 3D motion in sync. Loading animation work only as each chapter approaches made a real difference to startup performance.
+
+Built with Next.js, GSAP, Lenis, Framer Motion, and Three.js.
+
+Which part would you refine next: the hero, the transitions, or the 3D menu?
+
+#CreativeDevelopment #Nextjs #WebDesign #GSAP #FrontendDevelopment
+
+Explore the code: https://github.com/AHMEDALIGHORI/BR-BURGER
